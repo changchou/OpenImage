@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenImage</string>
+    <string name="open">Open image</string>
+    <string name="image">图片浏览器</string>
+</resources>
